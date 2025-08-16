@@ -58,8 +58,11 @@ This project aims to deliver models capable of accurately classifying fetal heal
 The performance metrics (accuracy, precision, recall, F1-score) for both the ANN baseline model and the selected classical ML model.
 
 <img width="732" height="360" alt="loss" src="https://github.com/user-attachments/assets/1c424722-f54f-4757-b0b4-57e7852ce69f" /> 
+
 This is the loss in nueral network algorithm
+
 <img width="627" height="537" alt="nueral-matrix" src="https://github.com/user-attachments/assets/a4a6e73f-20c7-400a-827b-0465869bf884" />
+
 Confusion matrix of nueral network on unseen data.
  you can find all results of all models within the notebook.
 
